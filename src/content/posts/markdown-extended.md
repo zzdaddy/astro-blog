@@ -1,10 +1,10 @@
 ---
-title: Markdown Extended Features
+title: Markdown 语法演示
 published: 2024-05-01
-description: 'Read more about Markdown features in Fuwari'
+description: '这是列表页展示的简介'
 image: ''
-tags: [Demo, Example, Markdown, Fuwari]
-category: 'Examples'
+tags: [Vue, 生活, React, Fuwari]
+category: '测试'
 draft: false 
 ---
 
