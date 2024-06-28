@@ -3,7 +3,7 @@ title: 为什么职位越高的人，越喜欢上班
 published: 2024-06-27
 description: '因为上班他是主任，下班他只是个小老头'
 image: ''
-tags: [生活, 吐槽, 感悟]
+tags: [生活, 吐槽]
 category: '生活'
 draft: false 
 ---

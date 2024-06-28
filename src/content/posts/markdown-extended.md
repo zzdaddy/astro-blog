@@ -1,10 +1,10 @@
 ---
-title: Markdown 语法演示
+title: Markdown 案例展示
 published: 2024-05-01
-description: '这是列表页展示的简介'
+description: '一些常用的Tips、iFrame插入视频'
 image: ''
-tags: [Vue, 生活, React, Fuwari]
-category: '测试'
+tags: [Markdown, Examples]
+category: 'Markdown'
 draft: false 
 ---
 
@@ -75,3 +75,11 @@ This is a note with a custom title.
 > [!TIP]
 > The GitHub syntax is also supported.
 ```
+
+## YouTube视频
+
+<iframe width="100%" height="468" src="https://www.youtube.com/embed/5gIf0_xpFPI?si=N1WTorLKL0uwLsU_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Bilibili视频
+
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1fK4y1s7Qf&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
