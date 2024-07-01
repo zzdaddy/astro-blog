@@ -13,6 +13,7 @@ import Markdown from "@components/misc/Markdown.astro";
 import path from "path";
 import {profileConfig} from "../../config";
 import {formatDateToYYYYMMDD} from "../../utils/date-utils";
+export const prerender = true;
 
 export async function getStaticPaths() {
     const blogEntries = await getCollection('posts', ({ data }) => {
