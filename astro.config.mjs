@@ -33,7 +33,7 @@ const oklchToHex = str => {
 export default defineConfig({
 //   site: "https://zzkb.top",
 //   base: "/",
-  trailingSlash: "always",
+  trailingSlash: "ignore",
   integrations: [tailwind(), swup({
     theme: false,
     animationClass: 'transition-',
