@@ -33,7 +33,7 @@ const oklchToHex = str => {
 export default defineConfig({
 //   site: "https://zzkb.top",
 //   base: "/",
-  trailingSlash: "ignore",
+  trailingSlash: "ignore", // 这个配置成always，会导致vercel一直重定向
   integrations: [tailwind(), swup({
     theme: false,
     animationClass: 'transition-',
