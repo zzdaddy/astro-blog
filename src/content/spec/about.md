@@ -22,11 +22,13 @@
 
 本站基于Astro，使用了一个开源模板`Fuwari`，因为整体的UI比较清爽，动画也比较丝滑，同时也还算简洁，基本可以做到`无开发成本`的使用，如果整体风格符合你的审美，可以大胆去尝试。但Astro不支持中途再切换主题，所以如果你想要时常切换其他，可以考虑Hexo，有和这个主题完全一致的开源模板。
 
-这是本站的开源地址⬇️
-::github{repo="zzdaddy/astro-blog"}
-
 这是原作者仓库地址⬇️
 ::github{repo="saicaca/fuwari"}
+
+### 联系我
+<img src="https://img.zzstudio.cn/wx-qrcode.png" width="200" height="200">
+
+
 
 > ### 原作者推荐的一些免费图片站
 > - [Unsplash](https://unsplash.com/)

@@ -1,6 +1,6 @@
 ---
 title: iKun集合！Pixeled Pic Pro 前端迭代篇（一）
-published: 2024-12-15 00:00:00
+published: 2023-12-15 00:00:00
 author: 枣把儿
 description: 像素厂 Pixed Pic Pro 迭代记录
 category: 早早集市
