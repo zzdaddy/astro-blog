@@ -21,6 +21,3 @@ pnpm-debug.log*
 .DS_Store
 
 .vercel
-
-src/content/posts/
-src/content/spec/
